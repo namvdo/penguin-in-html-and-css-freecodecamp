@@ -1,5 +1,5 @@
 # penguin-in-html-and-css-freecodecamp
-How to create a Penguin in HTML and CSS.
+How to create a Penguin in HTML and CSS
 
 
 
